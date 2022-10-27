@@ -2,6 +2,9 @@
 
 Você já ouviu falar sobre Cloud? Já deve ter ouvido, né? Não é Cláudia!! É Cloud, Nuvem!
 
+<div align="center"><img src="https://media0.giphy.com/media/fvY8JtKw8Bx3bXYlIi/giphy.gif?cid=ecf05e476plwtoyjz11urkrk8rf7teqaa7s7ueeivvimj6ud&rid=giphy.gif&ct=g"/>
+</div>
+
 ## **O que é Cloud?**
 
 Cloud computing, ou computação em nuvem, consiste em manter arquivos, aplicativos e outros dados em uma rede, de modo que, com acesso à internet, é possível acessá-los de qualquer dispositivo, já que estão armazenados em servidores externos, e não no próprio computador, celular ou tablet.
@@ -67,6 +70,7 @@ No próximo artigo vou contar para vocês sobre o programa Free Trial e Free Tie
 
 <div align="center"><img src="https://media1.giphy.com/media/l1J3CbFgn5o7DGRuE/giphy.gif?cid=ecf05e47n6zb87ficd6jo50r1y1ubj0illluqtzca4jxl1he&rid=giphy.gif&ct=g"/>
 </div>
+
 
 
 
