@@ -1,3 +1,3 @@
 # Vamos falar de Google Cloud?
 
-* o que é
+1- Você já ouviu falar sobre Cloud?
