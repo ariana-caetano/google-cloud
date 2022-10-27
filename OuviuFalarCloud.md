@@ -1,6 +1,6 @@
 # **Você já ouviu falar sobre Cloud?**
 
-Você já ouviu falar sobre Cloud? Já deve ter ouvido, né? Não é Cláudia!! É Cloud, Nuvem!
+Já deve ter ouvido, né? Não é Cláudia!! É Cloud, Nuvem!
 
 <div align="center"><img src="https://media0.giphy.com/media/fvY8JtKw8Bx3bXYlIi/giphy.gif?cid=ecf05e476plwtoyjz11urkrk8rf7teqaa7s7ueeivvimj6ud&rid=giphy.gif&ct=g"/>
 </div>
